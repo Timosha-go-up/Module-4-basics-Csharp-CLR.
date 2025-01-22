@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции  switch case\bin\Debug\_4._1.Условные_выражения_и_конструкции__switch_case.exe.config
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции  switch case\bin\Debug\_4._1.Условные_выражения_и_конструкции__switch_case.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции  switch case\bin\Debug\_4._1.Условные_выражения_и_конструкции__switch_case.pdb
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции  switch case\obj\Debug\4.1. Условные выражения и конструкции  switch case.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции  switch case\obj\Debug\4.1. Условные выражения и конструкции  switch case.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции  switch case\obj\Debug\_4._1.Условные_выражения_и_конструкции__switch_case.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции  switch case\obj\Debug\_4._1.Условные_выражения_и_конструкции__switch_case.pdb
