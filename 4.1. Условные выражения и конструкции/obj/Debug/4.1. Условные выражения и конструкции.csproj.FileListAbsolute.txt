@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции\bin\Debug\_4._1.Условные_выражения_и_конструкции.exe.config
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции\bin\Debug\_4._1.Условные_выражения_и_конструкции.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции\bin\Debug\_4._1.Условные_выражения_и_конструкции.pdb
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции\obj\Debug\4.1. Условные выражения и конструкции.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции\obj\Debug\4.1. Условные выражения и конструкции.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции\obj\Debug\_4._1.Условные_выражения_и_конструкции.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.1. Условные выражения и конструкции\obj\Debug\_4._1.Условные_выражения_и_конструкции.pdb
