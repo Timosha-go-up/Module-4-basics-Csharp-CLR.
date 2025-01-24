@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.3. Массивы\bin\Debug\_4._3.Массивы.exe.config
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.3. Массивы\bin\Debug\_4._3.Массивы.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.3. Массивы\bin\Debug\_4._3.Массивы.pdb
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.3. Массивы\obj\Debug\4.3. Массивы.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.3. Массивы\obj\Debug\4.3. Массивы.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.3. Массивы\obj\Debug\_4._3.Массивы.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.3. Массивы\obj\Debug\_4._3.Массивы.pdb

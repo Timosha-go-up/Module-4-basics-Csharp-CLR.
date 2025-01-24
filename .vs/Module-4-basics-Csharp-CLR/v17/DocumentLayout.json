@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{183E108F-3479-4145-ACE5-24B8ADCE23B3}|4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case.csproj|c:\\users\\roman\\source\\repos\\timosha-go-up\\module-4-basics-csharp-clr\\4.1. \u0443\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBD99D60-C5E9-418A-94AA-F6AFDEC365A9}|4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B\\4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B.csproj|c:\\users\\roman\\source\\repos\\timosha-go-up\\module-4-basics-csharp-clr\\4.3. \u043C\u0430\u0441\u0441\u0438\u0432\u044B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD99D60-C5E9-418A-94AA-F6AFDEC365A9}|4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B\\4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B.csproj|solutionrelative:4.3. \u043C\u0430\u0441\u0441\u0438\u0432\u044B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E108F-3479-4145-ACE5-24B8ADCE23B3}|4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case.csproj|C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.1. \u0443\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{183E108F-3479-4145-ACE5-24B8ADCE23B3}|4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case.csproj|solutionrelative:4.1. \u0443\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0E0A0E0-F8DB-462B-A3AA-FC9E3672DF7C}|4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438.csproj|c:\\users\\roman\\source\\repos\\timosha-go-up\\module-4-basics-csharp-clr\\4.1. \u0443\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0E0A0E0-F8DB-462B-A3AA-FC9E3672DF7C}|4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438.csproj|C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.1. \u0443\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0E0A0E0-F8DB-462B-A3AA-FC9E3672DF7C}|4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438.csproj|solutionrelative:4.1. \u0443\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,18 +28,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
-              "RelativeDocumentMoniker": "4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
-              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
-              "RelativeToolTip": "4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B\\Program.cs",
+              "RelativeDocumentMoniker": "4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B\\Program.cs",
+              "RelativeToolTip": "4.3. \u041C\u0430\u0441\u0441\u0438\u0432\u044B\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T18:15:56.821Z",
+              "WhenOpened": "2025-01-23T17:33:42.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
+              "RelativeDocumentMoniker": "4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
+              "RelativeToolTip": "4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438  switch case\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:15:56.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Timosha-go-up\\Module-4-basics-Csharp-CLR\\4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\Program.cs",
               "RelativeDocumentMoniker": "4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\Program.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "4.1. \u0423\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0432\u044B\u0440\u0430\u0436\u0435\u043D\u0438\u044F \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T17:45:19.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T17:45:19.227Z"
             }
           ]
         }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1. Условные вы�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1. Условные выражения и конструкции  switch case", "4.1. Условные выражения и конструкции  switch case\4.1. Условные выражения и конструкции  switch case.csproj", "{183E108F-3479-4145-ACE5-24B8ADCE23B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3. Массивы", "4.3. Массивы\4.3. Массивы.csproj", "{BBD99D60-C5E9-418A-94AA-F6AFDEC365A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{183E108F-3479-4145-ACE5-24B8ADCE23B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{183E108F-3479-4145-ACE5-24B8ADCE23B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{183E108F-3479-4145-ACE5-24B8ADCE23B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD99D60-C5E9-418A-94AA-F6AFDEC365A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD99D60-C5E9-418A-94AA-F6AFDEC365A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD99D60-C5E9-418A-94AA-F6AFDEC365A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD99D60-C5E9-418A-94AA-F6AFDEC365A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
