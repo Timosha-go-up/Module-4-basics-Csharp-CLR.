@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.5. Практикум\bin\Debug\_4._5.Практикум.exe.config
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.5. Практикум\bin\Debug\_4._5.Практикум.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.5. Практикум\bin\Debug\_4._5.Практикум.pdb
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.5. Практикум\obj\Debug\4.5. Практикум.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.5. Практикум\obj\Debug\4.5. Практикум.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.5. Практикум\obj\Debug\_4._5.Практикум.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.5. Практикум\obj\Debug\_4._5.Практикум.pdb
