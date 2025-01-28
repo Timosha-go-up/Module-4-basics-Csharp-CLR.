@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.4. Кортежи\bin\Debug\_4._4.Кортежи.exe.config
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.4. Кортежи\bin\Debug\_4._4.Кортежи.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.4. Кортежи\bin\Debug\_4._4.Кортежи.pdb
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.4. Кортежи\obj\Debug\4.4. Кортежи.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.4. Кортежи\obj\Debug\4.4. Кортежи.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.4. Кортежи\obj\Debug\_4._4.Кортежи.exe
+C:\Users\Roman\source\repos\Timosha-go-up\Module-4-basics-Csharp-CLR\4.4. Кортежи\obj\Debug\_4._4.Кортежи.pdb

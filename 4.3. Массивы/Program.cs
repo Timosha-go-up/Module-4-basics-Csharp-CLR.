@@ -139,7 +139,7 @@ namespace _4._3.Массивы
 
                     Console.Write(arr5[i, j] + " ");
 
-                Console.WriteLine();
+                    Console.WriteLine();
             }
 
             Console.ReadKey();
